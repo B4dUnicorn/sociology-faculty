@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sociology-faculty/static/css/main.ef364ed2.css",
+    "main.js": "/sociology-faculty/static/js/main.c76f5f73.js",
+    "index.html": "/sociology-faculty/index.html",
+    "main.ef364ed2.css.map": "/sociology-faculty/static/css/main.ef364ed2.css.map",
+    "main.c76f5f73.js.map": "/sociology-faculty/static/js/main.c76f5f73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef364ed2.css",
+    "static/js/main.c76f5f73.js"
+  ]
+}
