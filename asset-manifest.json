@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sociology-faculty/static/css/main.ef364ed2.css",
-    "main.js": "/sociology-faculty/static/js/main.c76f5f73.js",
+    "main.js": "/sociology-faculty/static/js/main.533afe33.js",
     "index.html": "/sociology-faculty/index.html",
     "main.ef364ed2.css.map": "/sociology-faculty/static/css/main.ef364ed2.css.map",
-    "main.c76f5f73.js.map": "/sociology-faculty/static/js/main.c76f5f73.js.map"
+    "main.533afe33.js.map": "/sociology-faculty/static/js/main.533afe33.js.map"
   },
   "entrypoints": [
     "static/css/main.ef364ed2.css",
-    "static/js/main.c76f5f73.js"
+    "static/js/main.533afe33.js"
   ]
 }
